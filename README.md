@@ -34,7 +34,7 @@ Overall, these jobs which use Python as a key skill demand a high salary. For ex
 
 ## Python and DevOps
 
-Python is used in the field of DevOps because of it's ease-to-use, making it easy and quick to use and script when needed. It is also very versatile and can be integrated into APIs quite easily, especially due to the community constantly;y updating features and adding libraries and APIs for existing software. For example, Cisco have developed their own Python API.
+Python is used in the field of DevOps because of it's ease-to-use, making it easy and quick to use and script when needed. It is also very versatile and can be integrated into APIs quite easily, especially due to the community constantly updating features and adding libraries and APIs for existing software. For example, Cisco have developed their own Python API.
 
 ## What is Scripting?
 
